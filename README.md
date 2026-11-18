@@ -117,6 +117,17 @@ All modules communicate with the central microcontroller to provide an integrate
 7. Modular Architecture: Allows future integration of additional IoT modules.
 8. Smart City Integration: Supports the development of intelligent public transportation infrastructure.
 
+📱 Mobile Application
+
+The Smart Bus Tracker mobile application is developed using MIT App Inventor to provide users with an easy-to-use interface.
+
+Download Application
+
+The Android application is available in APK format.
+
+Platform: MIT App Inventor
+File Format: Android APK
+
 🛠️ Technologies Used
 
 - Embedded Systems
